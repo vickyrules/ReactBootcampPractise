@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/ReactBootcampPractise/static/css/main.61e0c500.css",
+    "main.js": "/ReactBootcampPractise/static/js/main.5486b91a.js",
+    "static/js/787.9239aff2.chunk.js": "/ReactBootcampPractise/static/js/787.9239aff2.chunk.js",
+    "static/media/photo-groid.png": "/ReactBootcampPractise/static/media/photo-groid.b94507685d562be47b0f.png",
+    "static/media/biking.png": "/ReactBootcampPractise/static/media/biking.a496b530f553a2d9b760.png",
+    "static/media/wedding.png": "/ReactBootcampPractise/static/media/wedding.6742c739f66fe86a1f89.png",
+    "static/media/katie_zal.png": "/ReactBootcampPractise/static/media/katie_zal.bd5ef56af9477f1e8832.png",
+    "static/media/logo_airbnb.svg": "/ReactBootcampPractise/static/media/logo_airbnb.7af2ee95625e51c5e2c7723e075fe865.svg",
+    "static/media/logo.svg": "/ReactBootcampPractise/static/media/logo.6ce24c58023cc2f8fd88.svg",
+    "index.html": "/ReactBootcampPractise/index.html",
+    "main.61e0c500.css.map": "/ReactBootcampPractise/static/css/main.61e0c500.css.map",
+    "main.5486b91a.js.map": "/ReactBootcampPractise/static/js/main.5486b91a.js.map",
+    "787.9239aff2.chunk.js.map": "/ReactBootcampPractise/static/js/787.9239aff2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.61e0c500.css",
+    "static/js/main.5486b91a.js"
+  ]
+}
